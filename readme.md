@@ -1,3 +1,9 @@
+Partner 1: Kaan Okul (https://github.com/KaanIsmet)
+Partner 2: Allie He (https://github.com/Pufffish)
+Partner 3: ZachGG421 (https://github.com/ZachGG421)
+
+
+
 # Install Instructions
 
 1. Fork the Repo (YOur Team - ONLY ONE and add partner(s) as collaborators) or Clone (Try Oot MyWebclass) 
